@@ -1,0 +1,19 @@
+{
+  "name": "sinon-with-time",
+  "version": "0.0.1",
+  "description": "sinon with time",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sinsoku/sinon-with-time.git"
+  },
+  "author": "sinsoku",
+  "licenses": [{
+    "type": "MIT",
+    "url": "https://raw.github.com/sinsoku/sinon-with-time/master/LICENSE"
+  }],
+  "bugs": {
+    "url": "https://github.com/sinsoku/sinon-with-time/issues"
+  },
+  "homepage": "https://github.com/sinsoku/sinon-with-time"
+}
